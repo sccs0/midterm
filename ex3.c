@@ -10,5 +10,4 @@ int main()
     }
     printf("%d\n%lu\n",count,s);
     return 0;
-
 }
